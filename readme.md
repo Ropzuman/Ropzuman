@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ropzuman or Roope 
-- 👀 I’m interested in all types of automation and software engineering, music and golf
-- 🌱 I’m currently learning automation engineering at Satakunta University of Applied Sciences
+- 👀 I’m interested in all types of automation and software engineering, music, sumo and golf
+- 🌱 I’m studying automation engineering with added empahsis on software development and system administration at Satakunta University of Applied Sciences
 - 💞️ I’m looking to collaborate on just about anything in the world of automation and programming
 - 📫 How to reach me roope.vahaaho@gmail.com
